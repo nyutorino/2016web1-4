@@ -1,8 +1,8 @@
 @charset"UFT-8
 
 body{
-  background-color:#fbf9cc;
-  background-image: uri(../kogeiimage.jpg);
+  background-color: #fbf9cc;
+  background-image: ur1(../kogeiimage.jpg);
   background-repeat: repeat;
 }
   
