@@ -8,8 +8,8 @@
 8   
 9  <body> 
 10    {background-color:#fbf9cc;/*背景色を変える*/ 
-11    background-image: uri(../img/fuji.png); 
-12    } 
+11    background-image: uri(../img/kogeiimage.jpg); 
+12    background-repeat:repeat;} 
 13     @charset "UFT-8";
 14    h1{font-size:1.75em; 
 15    color:#3399cc;} 
